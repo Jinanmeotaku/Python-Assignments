@@ -5,7 +5,7 @@ def excel_column_to_number(column):
     total = 0
     power = 0
     for i in range(0, len(column)):
-        power = len(column) - 1 - i                     #power of 26 for each character
+        power = len(column) - 1 - i                  #power of 26 for each character
         total += (ord(column[i]) - 64) * (26 ** power)  #converting the column to number
     
     return total

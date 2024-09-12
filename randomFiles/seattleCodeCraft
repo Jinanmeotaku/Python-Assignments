@@ -1,0 +1,10 @@
+#craft intails that it can be improved 
+#if it is readable and understandable by scanning then there shouldnt be a reason why to add 
+#comments. 
+
+#Refactoring: rewriting code for better readability and faster code without changing the code functionality.
+
+#there is a safe and unsafe refactoring where the safe is when the functionality isnt changed while 
+#the unsafe one is when we chang the code to do something different.
+
+#
